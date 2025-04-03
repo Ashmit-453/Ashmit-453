@@ -7,8 +7,9 @@
 🚀 Expert in FastAPI, Django, LangChain  
 📝 Tech Blogger at Medium | Sharing insights on AI, Backend Development, and System Design!  
 💡 Building AI-driven SaaS apps & scalable backend systems 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
 
 ## 💬 Ask me about ...  
@@ -18,8 +19,9 @@
 - 💡 Optimization & Performance Tuning  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 </p>
+
 ---
 
 ## 📫 How to reach me:  
