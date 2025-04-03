@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+%F0%9F%91%8B;Python+Backend+%26+AI+Developer!;Building+AI-powered+SaaS+apps!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+Ashmit Pandey;Python+Backend+%26+AI+Developer!;Building+AI-powered+SaaS+apps!">
 </h1>
 
 # 🚀 Hi, I'm Ashmit Pandey
