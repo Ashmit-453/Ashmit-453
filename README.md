@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm [Ashmit Pandey]  
+# 🚀 Hi, I'm Ashmit Pandey
 
 🔥 Python Backend Developer & Full-Stack AI SaaS  
 🏆 LeetCode 1600+ | GenAI Enthusiast  
