@@ -1,6 +1,7 @@
 
 
 # 🚀 Hi, I'm Ashmit Pandey
+![Neon Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=0F0&width=600&lines=Ashmit+Pandey;Python+Backend+%7C+AI+SaaS;FastAPI+%7C+Django+%7C+LangChain)
 
 🔥 Python Backend Developer & Full-Stack AI SaaS  
 🏆 LeetCode 1600+ | GenAI Enthusiast  
@@ -10,9 +11,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500">
-</p>
+
 
 ## 💬 Ask me about ...  
 - 🖥️ Python Backend Development (Django, FastAPI, Flask)  
