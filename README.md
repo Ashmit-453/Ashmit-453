@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+Ashmit Pandey;Python+Backend+%26+AI+Developer!;Building+AI-powered+SaaS+apps!">
-</h1>
+
 
 # 🚀 Hi, I'm Ashmit Pandey
 
@@ -51,6 +49,9 @@ I once debugged an issue for **3 hours**, only to realize the API key was wrong!
 
 ## 🏆 LeetCode Progress  
 ![LeetCode Stats](https://leetcode.com/u/ashmit_1977/)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Looking+for+a+Python+AI+Backend+Dev?;Let's+Build+Something+Great!;Hire+Me+Today!">
+</p>
 
 ---
 
