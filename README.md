@@ -8,7 +8,7 @@
 📝 Tech Blogger at Medium | Sharing insights on AI, Backend Development, and Sytem Design!  
 💡 Building AI-driven SaaS apps & scalable backend systems 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600">
 </p>
 
 ---
