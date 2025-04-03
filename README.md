@@ -10,6 +10,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500">
+</p>
 
 ## 💬 Ask me about ...  
 - 🖥️ Python Backend Development (Django, FastAPI, Flask)  
