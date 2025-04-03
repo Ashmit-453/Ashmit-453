@@ -6,7 +6,10 @@
 🏆 LeetCode 1600+ | GenAI Enthusiast  
 🚀 Expert in FastAPI, Django, LangChain  
 📝 Tech Blogger at Medium | Sharing insights on AI, Backend Development, and Sytem Design!  
-💡 Building AI-driven SaaS apps & scalable backend systems  
+💡 Building AI-driven SaaS apps & scalable backend systems 
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="500">
+</p>
 
 ---
 
