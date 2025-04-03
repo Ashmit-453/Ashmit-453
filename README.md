@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+%F0%9F%91%8B;Python+Backend+%26+AI+Developer!;Building+AI-powered+SaaS+apps!">
+</h1>
+
 # 🚀 Hi, I'm Ashmit Pandey
 
 🔥 Python Backend Developer & Full-Stack AI SaaS  
@@ -30,13 +34,8 @@ I once debugged an issue for **3 hours**, only to realize the API key was wrong!
 ---
 
 ---
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+%F0%9F%91%8B;Python+Backend+%26+AI+Developer!;Building+AI-powered+SaaS+apps!">
-</h1>
 
-<h1 align="center">
-  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
+
 
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)  
