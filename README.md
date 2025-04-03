@@ -8,9 +8,8 @@
 📝 Tech Blogger at Medium | Sharing insights on AI, Backend Development, and Sytem Design!  
 💡 Building AI-driven SaaS apps & scalable backend systems 
 <p align="center">
-  <img src="https://media.giphy.com/media/h8sBebMduK2nUXqkV5/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 </p>
----
 
 ## 💬 Ask me about ...  
 - 🖥️ Python Backend Development (Django, FastAPI, Flask)  
